@@ -1,9 +1,9 @@
 # 🌐 NetGuard Pro
-Bienvenido a NetGuard Pro, una herramienta diseñada para ayudarte a supervisar, organizar y proteger tu red de manera sencilla y eficiente.
+> Bienvenido a NetGuard Pro, una herramienta diseñada para ayudarte a supervisar, organizar y proteger tu red de manera sencilla y eficiente.
 Este documento te guiará paso a paso desde los requisitos necesarios hasta la instalación, activación y uso inicial del sistema.
 
 ## Guía Visual de Instalación, Requisitos y Características
-⭐ Herramienta sencilla, clara y segura para gestionar tu red.
+* ⭐ Herramienta sencilla, clara y segura para gestionar tu red.
 
 ### 🧩 1. Requisitos del Sistema
 **🔥 Información Crítica — Revisa antes de instalar**
@@ -15,7 +15,7 @@ Este documento te guiará paso a paso desde los requisitos necesarios hasta la i
 | Linux             | Ubuntu 20.04+, CentOS 7+ |
 | macOS             | 10.15 o superior         |
 
-⚙️ Desempeño Requerido
+* ⚙️ Desempeño Requerido
 | Recurso     | Mínimo            | Recomendado       |
 | ----------- | ----------------- | ----------------- |
 | Procesador  | Quad-core 2.5 GHz | Octa-core 3.0 GHz |
@@ -42,7 +42,7 @@ Proceso guiado paso a paso, pensado para cualquier persona.
 1. Configurar manualmente
 2. O subir un archivo .json o .yaml
 * 🔹 Crea tu usuario administrador
- **🔐 Información crítica: Esta cuenta controla el acceso al sistema.**
+* **🔐 Información crítica: Esta cuenta controla el acceso al sistema.**
 
 **🔑 Paso 3 – Activar tu Licencia**
 * 🔹 Introduce tu clave de licencia
@@ -92,5 +92,5 @@ El panel te muestra en tiempo real:
 * ✔ Usa el pane
 
 **📌 Resumen Final**
-Este documento te ofrece una guía clara, ordenada y accesible para que puedas instalar y comenzar a usar NetGuard Pro sin complicaciones.
+> Este documento te ofrece una guía clara, ordenada y accesible para que puedas instalar y comenzar a usar NetGuard Pro sin complicaciones.
 Sigue los pasos en orden y revisa siempre las secciones marcadas como información crítica, ya que son esenciales para la seguridad y el buen funcionamiento del sistema.# NetGuard-Pro.
