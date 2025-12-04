@@ -15,7 +15,8 @@ Este documento te guiará paso a paso desde los requisitos necesarios hasta la i
 | Linux             | Ubuntu 20.04+, CentOS 7+ |
 | macOS             | 10.15 o superior         |
 
-* ⚙️ Desempeño Requerido
+⚙️ Desempeño Requerido
+  
 | Recurso     | Mínimo            | Recomendado       |
 | ----------- | ----------------- | ----------------- |
 | Procesador  | Quad-core 2.5 GHz | Octa-core 3.0 GHz |
@@ -92,5 +93,5 @@ El panel te muestra en tiempo real:
 * ✔ Usa el pane
 
 **📌 Resumen Final**
-> Este documento te ofrece una guía clara, ordenada y accesible para que puedas instalar y comenzar a usar NetGuard Pro sin complicaciones.
+* Este documento te ofrece una guía clara, ordenada y accesible para que puedas instalar y comenzar a usar NetGuard Pro sin complicaciones.
 Sigue los pasos en orden y revisa siempre las secciones marcadas como información crítica, ya que son esenciales para la seguridad y el buen funcionamiento del sistema.# NetGuard-Pro.
