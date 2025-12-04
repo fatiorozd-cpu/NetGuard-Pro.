@@ -7,7 +7,7 @@ Este documento te guiará paso a paso desde los requisitos necesarios hasta la i
 
 ### 🧩 1. Requisitos del Sistema
 **🔥 Información Crítica — Revisa antes de instalar**
-🖥️ Compatibilidad
+* 🖥️ Compatibilidad
 
 | Sistema Operativo | Versión                  |
 | ----------------- | ------------------------ |
@@ -30,66 +30,66 @@ Este documento te guiará paso a paso desde los requisitos necesarios hasta la i
 Proceso guiado paso a paso, pensado para cualquier persona.
 
 **📥 Paso 1 – Descargar e Instalar**
-*🔹 Entra al sitio oficial de NetGuard Solutions
-*🔹 Accede a “Descargas”
-*🔹 Selecciona tu sistema operativo
-*🔹 Descarga el instalador y sigue las instrucciones
+* 🔹 Entra al sitio oficial de NetGuard Solutions
+* 🔹 Accede a “Descargas”
+* 🔹 Selecciona tu sistema operativo
+* 🔹 Descarga el instalador y sigue las instrucciones
 
 **⚙️ Paso 2 – Configuración Inicial**
-*🔹 Abre NetGuard Pro
-*🔹 El asistente te ayudará a configurar la red
-*🔹 Puedes:
-1.Configurar manualmente
-2.O subir un archivo .json o .yaml
-*🔹 Crea tu usuario administrador
+* 🔹 Abre NetGuard Pro
+* 🔹 El asistente te ayudará a configurar la red
+* 🔹 Puedes:
+1. Configurar manualmente
+2. O subir un archivo .json o .yaml
+* 🔹 Crea tu usuario administrador
  **🔐 Información crítica: Esta cuenta controla el acceso al sistema.**
 
 **🔑 Paso 3 – Activar tu Licencia**
-*🔹 Introduce tu clave de licencia
-*🔹 O elige “Iniciar prueba gratuita” (duración: 30 días)
-*🔹 Para licencias por volumen, indica cuántos servidores usarás
+* 🔹 Introduce tu clave de licencia
+* 🔹 O elige “Iniciar prueba gratuita” (duración: 30 días)
+* 🔹 Para licencias por volumen, indica cuántos servidores usarás
 
 **🌐 Paso 4 – Integración con tu Red**
-*🔹 NetGuard Pro detectará automáticamente tus dispositivos
-*🔹 Mostrará recomendaciones para mejorar el rendimiento
-*🔹 Puedes aceptarlas o ajustarlas a tu gusto
+* 🔹 NetGuard Pro detectará automáticamente tus dispositivos
+* 🔹 Mostrará recomendaciones para mejorar el rendimiento
+* 🔹 Puedes aceptarlas o ajustarlas a tu gusto
 
 **📊 Paso 5 – Primer Vistazo al Panel**
 El panel te muestra en tiempo real:
-*📡 Actividad de la red
-*🚨 Alertas importantes
-*⚡ Rendimiento general
-*🔹 Personalízalo agregando widgets o configurando notificaciones
+* 📡 Actividad de la red
+* 🚨 Alertas importantes
+* ⚡ Rendimiento general
+* 🔹 Personalízalo agregando widgets o configurando notificaciones
 
 ### ⭐ 3. Características Principales
 **🚀 Optimización de la Red**
-*Detecta automáticamente problemas y cuellos de botella
-*Ajusta el ancho de banda según prioridades
-*Analiza el rendimiento en tiempo real
+* Detecta automáticamente problemas y cuellos de botella
+* Ajusta el ancho de banda según prioridades
+* Analiza el rendimiento en tiempo real
 
 **🔒 Seguridad Mejorada**
 **🔥 Información Crítica — Funciones que protegen tus datos**
-*Protección contra accesos no autorizados
-*Alertas inmediatas ante amenazas
-*Cifrado seguro en todas las comunicaciones
+* Protección contra accesos no autorizados
+* Alertas inmediatas ante amenazas
+* Cifrado seguro en todas las comunicaciones
 
 **📡 Escalabilidad sin Interrupciones**
-*Ideal para redes pequeñas o grandes
-*Integración con AWS, Azure y Google Cloud
-*Balanceo de carga automático para evitar saturaciones
+* Ideal para redes pequeñas o grandes
+* Integración con AWS, Azure y Google Cloud
+* Balanceo de carga automático para evitar saturaciones
 
 **🧭 Interfaz Simple y Amigable**
-*Panel central intuitivo
-*Widgets, vistas y alertas personalizables
-*API disponible para automatización de tareas
+* Panel central intuitivo
+* Widgets, vistas y alertas personalizables
+* API disponible para automatización de tareas
 
 **📌 Resumen Visual**
-*✔ Revisa requisitos
-*✔ Instala
-*✔ Configura
-*✔ Activa licencia
-*✔ Integra la red
-*✔ Usa el pane
+* ✔ Revisa requisitos
+* ✔ Instala
+* ✔ Configura
+* ✔ Activa licencia
+* ✔ Integra la red
+* ✔ Usa el pane
 
 **📌 Resumen Final**
 Este documento te ofrece una guía clara, ordenada y accesible para que puedas instalar y comenzar a usar NetGuard Pro sin complicaciones.
