@@ -1,134 +1,119 @@
-NetGuard Pro – Guía Esencial de Instalación y Uso
-
 Bienvenido a NetGuard Pro, una herramienta diseñada para ayudarte a supervisar, organizar y proteger tu red de manera sencilla y eficiente.
 Este documento te guiará paso a paso desde los requisitos necesarios hasta la instalación, activación y uso inicial del sistema.
 
-✅ 1. Requisitos del Sistema (Información Crítica)
+🌐 NetGuard Pro
+Guía Visual de Instalación, Requisitos y Características
+<div align="center">
+⭐ Herramienta sencilla, clara y segura para gestionar tu red.
+</div>
+🧩 1. Requisitos del Sistema
 
-Antes de comenzar, asegúrate de que tu equipo cumpla con lo necesario para que NetGuard Pro funcione correctamente.
-Esta sección es fundamental para evitar errores durante la instalación.
+🔥 Información Crítica — Revisa antes de instalar
 
-Sistemas Operativos Compatibles
+🖥️ Compatibilidad
+Sistema Operativo	Versión
+Windows Server	2016 / 2019
+Linux	Ubuntu 20.04+, CentOS 7+
+macOS	10.15 o superior
+⚙️ Desempeño Requerido
+Recurso	Mínimo	Recomendado
+Procesador	Quad-core 2.5 GHz	Octa-core 3.0 GHz
+Memoria RAM	8 GB	16 GB
+Disco	500 GB	1 TB SSD
+Red	1 Gbps	10 Gbps
 
-Windows Server 2016 / 2019
-
-Linux: Ubuntu 20.04+ o CentOS 7+
-
-macOS 10.15 o superior
-
-Procesador
-
-Mínimo: Quad-core 2.5 GHz
-
-Recomendado: Octa-core 3.0 GHz
-
-Memoria RAM
-
-Mínimo: 8 GB
-
-Recomendado: 16 GB
-
-Espacio Disponible en Disco
-
-Mínimo: 500 GB
-
-Recomendado: 1 TB SSD
-
-Conexión de Red
-
-Mínimo: 1 Gbps
-
-Recomendado: 10 Gbps para redes grandes
+⚠️ Sin estos requisitos, el rendimiento del sistema podría verse afectado.
 
 🛠️ 2. Instalación y Puesta en Marcha
 
-Una vez verificados los requisitos, puedes continuar con la instalación.
-Esta guía está pensada para que cualquier persona pueda seguirla sin importar su nivel técnico.
+Proceso guiado paso a paso, pensado para cualquier persona.
 
-Paso 1: Descargar e Instalar
+📥 Paso 1 – Descargar e Instalar
 
-Entra al sitio oficial de NetGuard Solutions y abre la sección “Descargas”.
+🔹 Entra al sitio oficial de NetGuard Solutions
+🔹 Accede a “Descargas”
+🔹 Selecciona tu sistema operativo
+🔹 Descarga el instalador y sigue las instrucciones
 
-Elige la versión de NetGuard Pro correspondiente a tu sistema operativo.
+⚙️ Paso 2 – Configuración Inicial
 
-Descarga el instalador y sigue las indicaciones que aparecen en pantalla.
+🔹 Abre NetGuard Pro
+🔹 El asistente te ayudará a configurar la red
+🔹 Puedes:
 
-Paso 2: Configuración Inicial
+Configurar manualmente
 
-Abre NetGuard Pro después de instalarlo.
+O subir un archivo .json o .yaml
+🔹 Crea tu usuario administrador
 
-Un asistente te ayudará a configurar tu red.
+🔐 Información crítica: Esta cuenta controla el acceso al sistema.
 
-Puedes hacerlo manualmente
+🔑 Paso 3 – Activar tu Licencia
 
-O cargar un archivo de configuración (formatos: .json o .yaml)
+🔹 Introduce tu clave de licencia
+🔹 O elige “Iniciar prueba gratuita” (duración: 30 días)
+🔹 Para licencias por volumen, indica cuántos servidores usarás
 
-Crea las credenciales de administrador.
-(Información crítica: estas credenciales protegen el acceso al sistema)
+🌐 Paso 4 – Integración con tu Red
 
-Paso 3: Activación de la Licencia
+🔹 NetGuard Pro detectará automáticamente tus dispositivos
+🔹 Mostrará recomendaciones para mejorar el rendimiento
+🔹 Puedes aceptarlas o ajustarlas a tu gusto
 
-Ingresa tu clave de licencia cuando el asistente te lo pida.
+📊 Paso 5 – Primer Vistazo al Panel
 
-Si no la tienes, puedes seleccionar “Iniciar prueba gratuita” por 30 días.
+El panel te muestra en tiempo real:
 
-Si usas licencias por volumen, indica cuántos servidores deseas registrar.
+📡 Actividad de la red
 
-Paso 4: Integración con tu Red
+🚨 Alertas importantes
 
-Una vez activado, NetGuard Pro detectará los dispositivos conectados.
+⚡ Rendimiento general
 
-El sistema mostrará sugerencias para mejorar el rendimiento de tu red.
+🔹 Personalízalo agregando widgets o configurando notificaciones
 
-Puedes aceptar estas recomendaciones o ajustarlas según tus necesidades.
+⭐ 3. Características Principales
+🚀 Optimización de la Red
 
-Paso 5: Primer Contacto con el Panel de Control
+Detecta automáticamente problemas y cuellos de botella
 
-Al finalizar la configuración, verás un panel central con:
+Ajusta el ancho de banda según prioridades
 
-Actividad de la red
+Analiza el rendimiento en tiempo real
 
-Alertas importantes
+🔒 Seguridad Mejorada
 
-Rendimiento en tiempo real
+🔥 Información Crítica — Funciones que protegen tus datos
 
-Puedes personalizar tu vista agregando widgets o configurando notificaciones.
+Protección contra accesos no autorizados
 
-⭐ 3. Características Principales del Software
+Alertas inmediatas ante amenazas
 
-Estas funciones describen lo que NetGuard Pro puede hacer por ti en el día a día.
+Cifrado seguro en todas las comunicaciones
 
-Optimización de la Red
+📡 Escalabilidad sin Interrupciones
 
-Detecta automáticamente problemas en el tráfico.
+Ideal para redes pequeñas o grandes
 
-Ajusta el uso de ancho de banda para que las tareas importantes siempre funcionen bien.
+Integración con AWS, Azure y Google Cloud
 
-Analiza la red en tiempo real para mejorarla continuamente.
+Balanceo de carga automático para evitar saturaciones
 
-Seguridad Mejorada (Información Crítica)
+🧭 Interfaz Simple y Amigable
 
-Protección integrada para controlar accesos no deseados.
+Panel central intuitivo
 
-Alerta de posibles amenazas en tiempo real.
+Widgets, vistas y alertas personalizables
 
-Toda la información viaja cifrada usando un protocolo seguro.
+API disponible para automatización de tareas
 
-Escalabilidad sin Interrupciones
-
-Funciona tanto para redes pequeñas como para empresas grandes.
-
-Se integra fácilmente con servicios en la nube como AWS, Azure o Google Cloud.
-
-Reparte la carga entre servidores para mantener un funcionamiento fluido.
-
-Interfaz Simple y Amigable
-
-Panel fácil de entender para monitorear todo en un solo lugar.
-
-Opciones personalizables para adaptarlo a tu estilo de trabajo.
-
-Integración con API para automatizar tareas (si se necesita en entornos avanzados).
+📌 Resumen Visual
+✔ Revisa requisitos
+✔ Instala
+✔ Configura
+✔ Activa licencia
+✔ Integra la red
+✔ Usa el pane
 
 📌 Resumen Final
 
